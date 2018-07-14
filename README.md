@@ -1,3 +1,3 @@
 # korean-keyboard
 
-Virtual Korean or french keyboard with angular
+Virtual Korean or French keyboard with angular
